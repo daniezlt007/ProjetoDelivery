@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa0804</color>
+    <color name="colorPrimaryDark">#fa0804</color>
+    <color name="colorAccent">#fa0804</color>
+
+    <!--<color name="colorBtnSignUp">#1792ea</color>070807
+    <color name="colorBtnSignIn">#043d0c</color>
+    amarelo=ffc606
+    -->
+
+    <color name="colorBtnSignUp">#00AFEF</color>
+    <color name="colorBtnSignIn">#ed1b24</color>
+
+    <color name="overlayBackgroud">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+
+    <color name="fundoLogo">#f1f1f2</color>
+
+</resources>

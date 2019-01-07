@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">98853069374-0skloar6b27hpg4bpsi936dc8tk4ickm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projetodeliverytcc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">98853069374</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsZQ2RmkxZvjdvg2wA7sDWdL6PARni90U</string>
+    <string name="google_app_id" translatable="false">1:98853069374:android:93d576ffd5adaf45</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsZQ2RmkxZvjdvg2wA7sDWdL6PARni90U</string>
+    <string name="google_storage_bucket" translatable="false">projetodeliverytcc.appspot.com</string>
+    <string name="project_id" translatable="false">projetodeliverytcc</string>
+</resources>

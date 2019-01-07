@@ -1,0 +1,763 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/android-flat-button-v1.1.aar/c472acac23e3dde5c70a9ce3f01183d8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/d34fe88d46e9dd6433b06c821b5683de/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:16:1-30:12
+MERGED from [io.paperdb:paperdb:2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/paperdb-2.1.aar/e4f0df97fa99924ff03a4f69a55c5fd3/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.rey5137:material:1.2.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-1.2.4.aar/643b5c40885409e73a2e34c2d20d95e3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/9c5c0cb3ba5cff80736140f7dab34ed2/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/b547df2b605039e14fd564510a7f27f1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/b10b128e99f4167f9158cba57be65b46/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/f23f9a1219127e0eadac2cb686781e74/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:16:1-25:12
+MERGED from [com.jaredrummler:material-spinner:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-spinner-1.1.0.aar/186d65b1d78a63fea3b986870d8eee42/AndroidManifest.xml:18:1-25:12
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/1576ed2a272832ba933916757f0e0719/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/33888a27c3429783b898fd99ae3d19d1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.6] /home/daniel/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.6.aar/e39f829141f1e4d150d946836a4f65c9/AndroidManifest.xml:2:1-17:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/ed3243264de64dc91235fbfc2e932563/AndroidManifest.xml:2:1-14:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/bef73c9bb7dee7ed88b986a01d234182/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/bafd72ac090c0f3895f284e1ebd91b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/2cfb860186f05550bc19a70de5efcec8/AndroidManifest.xml:2:1-10:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/78d50d118ccd42aee8c3be894526cf4b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/5600a08304dfe0017d42bcdeb951e300/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/71819e703757ae5abd7bbfcad6cd360f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d52a48a6e33d6608437cd81d584e32e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/c82e0a1000e30b2156a6ac0e4874a6b2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/a85f4cf00af7c93807b6b16f678894a3/AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/ed5ce8aaf0f84758b88933cf2222484a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/70f176a3c4ccd8a151a9031e4b4e93e5/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/8fdd8756da3220727731298aae220165/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/4213a4e2b27adaecedf2bd2332a23b4b/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/d16f5427bd898607d5e20ca94657f440/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/17cbf63ebf6a7f11fb46a6d43ac43067/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/b4ed73c0dd0875a14531a25511e8867f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/b17dee7e5a58ff4cfae28385bb0ed1a6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/e6efb0f32e96be8577ea94bb3c90e98d/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/e4ff4af9905c40b944966c8bb15b28de/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/935ec5c307ed9ee6b4314c6d9c4450b1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/7ad19a7775e70e76dac2fadf8d3eef5a/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/0a366e510593cd336955cbaf0c8183f0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/3d47506981a94119e1e08b6f13d3b0d9/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1367841f5a1fe663043792561baa6bcb/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/231eec71715405b6ae5171a075aff955/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/c95716017a6ebce83510a16067678593/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/d37fa3e305f7ff4fb50c4881436d85a5/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/eaf965b6ef0523fe179956731395d88e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/be0558408209eaf2352875f487f48393/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/1441df4488fd26aa8f7d5212c2d943b9/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/b881ac91da24d28d37d1d80010af2d49/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/15a0d8ee06ef7449be3b6dcb96970b64/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ebc79642d7f7df17df2add5926e3aff5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/palette-v7-24.0.0.aar/16b1a7e2765e17e2b36cd4c1c76ec21d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/f2c3b9c90b2d13afc8a95ee40ee3434a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/af567fddf74eff5d71ac026e31809dfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6df5d4d4606355f365bc4f44319f5dcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c4bdb90b75ec2198e53aea8c6b99e939/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/522d4033c1371423930badffacba26be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f7d6bc418a60210287f2e0fcff485772/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/7ca2376d82867e09b887e126e3674657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/980a90f84b9d22dea29a8e179520b3a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d39a4d2d484d60b62be3efdaef2badc4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f971f33126920e6dd1dd4137eff210bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e14c495fb981124673f84999ee31ce7f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8bf23dc66d7f44fca135649cdf0683c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:3:5-75
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:13:5-62:19
+MERGED from [com.google.android.gms:play-services:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/d34fe88d46e9dd6433b06c821b5683de/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/d34fe88d46e9dd6433b06c821b5683de/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:19:5-29:19
+MERGED from [io.paperdb:paperdb:2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/paperdb-2.1.aar/e4f0df97fa99924ff03a4f69a55c5fd3/AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/paperdb-2.1.aar/e4f0df97fa99924ff03a4f69a55c5fd3/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/b547df2b605039e14fd564510a7f27f1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/b547df2b605039e14fd564510a7f27f1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/b10b128e99f4167f9158cba57be65b46/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/b10b128e99f4167f9158cba57be65b46/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/33888a27c3429783b898fd99ae3d19d1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/33888a27c3429783b898fd99ae3d19d1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.6] /home/daniel/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.6.aar/e39f829141f1e4d150d946836a4f65c9/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.6] /home/daniel/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.6.aar/e39f829141f1e4d150d946836a4f65c9/AndroidManifest.xml:11:5-15:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/ed3243264de64dc91235fbfc2e932563/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/ed3243264de64dc91235fbfc2e932563/AndroidManifest.xml:12:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/bef73c9bb7dee7ed88b986a01d234182/AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/bef73c9bb7dee7ed88b986a01d234182/AndroidManifest.xml:11:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:13:5-17:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/78d50d118ccd42aee8c3be894526cf4b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/78d50d118ccd42aee8c3be894526cf4b/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/5600a08304dfe0017d42bcdeb951e300/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/5600a08304dfe0017d42bcdeb951e300/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d52a48a6e33d6608437cd81d584e32e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d52a48a6e33d6608437cd81d584e32e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/c82e0a1000e30b2156a6ac0e4874a6b2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/c82e0a1000e30b2156a6ac0e4874a6b2/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/70f176a3c4ccd8a151a9031e4b4e93e5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/70f176a3c4ccd8a151a9031e4b4e93e5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/d16f5427bd898607d5e20ca94657f440/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/d16f5427bd898607d5e20ca94657f440/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/b4ed73c0dd0875a14531a25511e8867f/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/b4ed73c0dd0875a14531a25511e8867f/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/e6efb0f32e96be8577ea94bb3c90e98d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/e6efb0f32e96be8577ea94bb3c90e98d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/e4ff4af9905c40b944966c8bb15b28de/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/e4ff4af9905c40b944966c8bb15b28de/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/935ec5c307ed9ee6b4314c6d9c4450b1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/935ec5c307ed9ee6b4314c6d9c4450b1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/7ad19a7775e70e76dac2fadf8d3eef5a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/7ad19a7775e70e76dac2fadf8d3eef5a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/0a366e510593cd336955cbaf0c8183f0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/0a366e510593cd336955cbaf0c8183f0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1367841f5a1fe663043792561baa6bcb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1367841f5a1fe663043792561baa6bcb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/231eec71715405b6ae5171a075aff955/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/231eec71715405b6ae5171a075aff955/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/c95716017a6ebce83510a16067678593/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/c95716017a6ebce83510a16067678593/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/d37fa3e305f7ff4fb50c4881436d85a5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/d37fa3e305f7ff4fb50c4881436d85a5/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/eaf965b6ef0523fe179956731395d88e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/eaf965b6ef0523fe179956731395d88e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/be0558408209eaf2352875f487f48393/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/be0558408209eaf2352875f487f48393/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/b881ac91da24d28d37d1d80010af2d49/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/b881ac91da24d28d37d1d80010af2d49/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/15a0d8ee06ef7449be3b6dcb96970b64/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/15a0d8ee06ef7449be3b6dcb96970b64/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/palette-v7-24.0.0.aar/16b1a7e2765e17e2b36cd4c1c76ec21d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/palette-v7-24.0.0.aar/16b1a7e2765e17e2b36cd4c1c76ec21d/AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:19:9-40
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.MainActivity
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:24:27-74
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.SignIn
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:27:19-41
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.Home
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:28:9-31:47
+	android:label
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:29:13-33
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.ProductList
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:32:19-46
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.OrderStatus
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:33:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:43:13-58
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.RastreamentoPedido
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:46:9-48:74
+	android:label
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:48:13-71
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:47:13-47
+activity#projetodeliverytccservidor.com.br.projetodeliverytccservidor.OrderDetail
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:50:19-46
+service#projetodeliverytccservidor.com.br.projetodeliverytccservidor.service.MyFirebaseIdService
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:51:9-55:19
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:51:18-61
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:52:13-54:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:53:25-77
+service#projetodeliverytccservidor.com.br.projetodeliverytccservidor.service.MyFirebaseMessaging
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:57:9-61:19
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:57:18-61
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:58:13-60:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml:59:25-75
+uses-sdk
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/android-flat-button-v1.1.aar/c472acac23e3dde5c70a9ce3f01183d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/android-flat-button-v1.1.aar/c472acac23e3dde5c70a9ce3f01183d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/d34fe88d46e9dd6433b06c821b5683de/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/d34fe88d46e9dd6433b06c821b5683de/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:17:5-43
+MERGED from [io.paperdb:paperdb:2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/paperdb-2.1.aar/e4f0df97fa99924ff03a4f69a55c5fd3/AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/paperdb-2.1.aar/e4f0df97fa99924ff03a4f69a55c5fd3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rey5137:material:1.2.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-1.2.4.aar/643b5c40885409e73a2e34c2d20d95e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-1.2.4.aar/643b5c40885409e73a2e34c2d20d95e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/9c5c0cb3ba5cff80736140f7dab34ed2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/9c5c0cb3ba5cff80736140f7dab34ed2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/b547df2b605039e14fd564510a7f27f1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/b547df2b605039e14fd564510a7f27f1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/b10b128e99f4167f9158cba57be65b46/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/b10b128e99f4167f9158cba57be65b46/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/f23f9a1219127e0eadac2cb686781e74/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/f23f9a1219127e0eadac2cb686781e74/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:23:5-43
+MERGED from [com.jaredrummler:material-spinner:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-spinner-1.1.0.aar/186d65b1d78a63fea3b986870d8eee42/AndroidManifest.xml:21:5-23:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/material-spinner-1.1.0.aar/186d65b1d78a63fea3b986870d8eee42/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/1576ed2a272832ba933916757f0e0719/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/1576ed2a272832ba933916757f0e0719/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/33888a27c3429783b898fd99ae3d19d1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/33888a27c3429783b898fd99ae3d19d1/AndroidManifest.xml:17:5-43
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.6] /home/daniel/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.6.aar/e39f829141f1e4d150d946836a4f65c9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.6] /home/daniel/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.6.aar/e39f829141f1e4d150d946836a4f65c9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/ed3243264de64dc91235fbfc2e932563/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/ed3243264de64dc91235fbfc2e932563/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/bef73c9bb7dee7ed88b986a01d234182/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/bef73c9bb7dee7ed88b986a01d234182/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/bafd72ac090c0f3895f284e1ebd91b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/bafd72ac090c0f3895f284e1ebd91b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/2cfb860186f05550bc19a70de5efcec8/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/daniel/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/2cfb860186f05550bc19a70de5efcec8/AndroidManifest.xml:6:5-8:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/78d50d118ccd42aee8c3be894526cf4b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/78d50d118ccd42aee8c3be894526cf4b/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/5600a08304dfe0017d42bcdeb951e300/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/5600a08304dfe0017d42bcdeb951e300/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/71819e703757ae5abd7bbfcad6cd360f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/71819e703757ae5abd7bbfcad6cd360f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d52a48a6e33d6608437cd81d584e32e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d52a48a6e33d6608437cd81d584e32e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/c82e0a1000e30b2156a6ac0e4874a6b2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/c82e0a1000e30b2156a6ac0e4874a6b2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/a85f4cf00af7c93807b6b16f678894a3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/a85f4cf00af7c93807b6b16f678894a3/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/ed5ce8aaf0f84758b88933cf2222484a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/ed5ce8aaf0f84758b88933cf2222484a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/70f176a3c4ccd8a151a9031e4b4e93e5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/70f176a3c4ccd8a151a9031e4b4e93e5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/8fdd8756da3220727731298aae220165/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/8fdd8756da3220727731298aae220165/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/4213a4e2b27adaecedf2bd2332a23b4b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/4213a4e2b27adaecedf2bd2332a23b4b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/d16f5427bd898607d5e20ca94657f440/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/d16f5427bd898607d5e20ca94657f440/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/17cbf63ebf6a7f11fb46a6d43ac43067/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/17cbf63ebf6a7f11fb46a6d43ac43067/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/b4ed73c0dd0875a14531a25511e8867f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/b4ed73c0dd0875a14531a25511e8867f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/b17dee7e5a58ff4cfae28385bb0ed1a6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/b17dee7e5a58ff4cfae28385bb0ed1a6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/e6efb0f32e96be8577ea94bb3c90e98d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/e6efb0f32e96be8577ea94bb3c90e98d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/e4ff4af9905c40b944966c8bb15b28de/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/e4ff4af9905c40b944966c8bb15b28de/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/935ec5c307ed9ee6b4314c6d9c4450b1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/935ec5c307ed9ee6b4314c6d9c4450b1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/7ad19a7775e70e76dac2fadf8d3eef5a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/7ad19a7775e70e76dac2fadf8d3eef5a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/0a366e510593cd336955cbaf0c8183f0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/0a366e510593cd336955cbaf0c8183f0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/3d47506981a94119e1e08b6f13d3b0d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/3d47506981a94119e1e08b6f13d3b0d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1367841f5a1fe663043792561baa6bcb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1367841f5a1fe663043792561baa6bcb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/231eec71715405b6ae5171a075aff955/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/231eec71715405b6ae5171a075aff955/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/c95716017a6ebce83510a16067678593/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/c95716017a6ebce83510a16067678593/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/d37fa3e305f7ff4fb50c4881436d85a5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/d37fa3e305f7ff4fb50c4881436d85a5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/eaf965b6ef0523fe179956731395d88e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/eaf965b6ef0523fe179956731395d88e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/be0558408209eaf2352875f487f48393/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/be0558408209eaf2352875f487f48393/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/1441df4488fd26aa8f7d5212c2d943b9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/1441df4488fd26aa8f7d5212c2d943b9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/b881ac91da24d28d37d1d80010af2d49/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/b881ac91da24d28d37d1d80010af2d49/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/15a0d8ee06ef7449be3b6dcb96970b64/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/15a0d8ee06ef7449be3b6dcb96970b64/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ebc79642d7f7df17df2add5926e3aff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ebc79642d7f7df17df2add5926e3aff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/palette-v7-24.0.0.aar/16b1a7e2765e17e2b36cd4c1c76ec21d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/palette-v7-24.0.0.aar/16b1a7e2765e17e2b36cd4c1c76ec21d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/f2c3b9c90b2d13afc8a95ee40ee3434a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/f2c3b9c90b2d13afc8a95ee40ee3434a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/af567fddf74eff5d71ac026e31809dfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/af567fddf74eff5d71ac026e31809dfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6df5d4d4606355f365bc4f44319f5dcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6df5d4d4606355f365bc4f44319f5dcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c4bdb90b75ec2198e53aea8c6b99e939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c4bdb90b75ec2198e53aea8c6b99e939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/522d4033c1371423930badffacba26be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/522d4033c1371423930badffacba26be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f7d6bc418a60210287f2e0fcff485772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f7d6bc418a60210287f2e0fcff485772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/7ca2376d82867e09b887e126e3674657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/7ca2376d82867e09b887e126e3674657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/980a90f84b9d22dea29a8e179520b3a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/980a90f84b9d22dea29a8e179520b3a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d39a4d2d484d60b62be3efdaef2badc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d39a4d2d484d60b62be3efdaef2badc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f971f33126920e6dd1dd4137eff210bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f971f33126920e6dd1dd4137eff210bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e14c495fb981124673f84999ee31ce7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e14c495fb981124673f84999ee31ce7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8bf23dc66d7f44fca135649cdf0683c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8bf23dc66d7f44fca135649cdf0683c/AndroidManifest.xml:20:5-44
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjetoDeliveryTCCServidor/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/47cdca95f38e3eb99ce16ce47a4d16c5/AndroidManifest.xml:23:18-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/5be045577cdf43b80637e49633004f30/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:20:5-66
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/506761a1e644b13e674688fe17853fff/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/35f60c2b0bd5713513b5398b97c10d8e/AndroidManifest.xml:21:52-75
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/b18a330ebad87b70f2c372bd8e5e42fb/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/d2104925fa371328a7214690be92bce4/AndroidManifest.xml:15:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/3e36bf0f30f2881e6a15dde31e8208d9/AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/eaf57cc921a0090940f5becd03fd881a/AndroidManifest.xml:24:13-51
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.projetodeliverytccservidor.com.br.projetodeliverytccservidor
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/64732bf2e8bc074e4905ade85437ecef/AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/b1bd373093f5fa23096b8e2b03a4b3a7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/8ef033dcd854242480e963b12f3d9738/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/1d768c4767e303993f242bd7e8ab7c9c/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef2e63c8d2b8a38ad32275fefbba5f9c/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/806d8d15d01cce7a6c31403a887d5b8c/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/b2e070ca0bb860546f916e8ded220a5c/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:17-71
+permission#projetodeliverytccservidor.com.br.projetodeliverytccservidor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:26:22-76
+uses-permission#projetodeliverytccservidor.com.br.projetodeliverytccservidor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:projetodeliverytccservidor.com.br.projetodeliverytccservidor
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:33:27-58
+category#projetodeliverytccservidor.com.br.projetodeliverytccservidor
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/1369985693cfa3f3ca5a5c365790abef/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/95f6822be0c0303e0ef830e92a4084bb/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/64450ba2f9700021a3931e8d3058e499/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/a8aac0aed58644c0352d3a3e449af29e/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/11fb945669d43d52187ee07fb4f46df3/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/e2fd8da6af5c64de4c26ac1c51af9fe5/AndroidManifest.xml:19:19-85

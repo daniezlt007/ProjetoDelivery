@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "98853069374",
+    "firebase_url": "https://projetodeliverytcc.firebaseio.com",
+    "project_id": "projetodeliverytcc",
+    "storage_bucket": "projetodeliverytcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98853069374:android:93d576ffd5adaf45",
+        "android_client_info": {
+          "package_name": "br.com.projetodeliverytcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98853069374-hc9qaga8flph4uum9k1mua9b1b8a7dfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.projetodeliverytcc",
+            "certificate_hash": "cbf667d34643da4f8c99f20953bdf702616dcec9"
+          }
+        },
+        {
+          "client_id": "98853069374-0skloar6b27hpg4bpsi936dc8tk4ickm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZQ2RmkxZvjdvg2wA7sDWdL6PARni90U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98853069374-0skloar6b27hpg4bpsi936dc8tk4ickm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98853069374:android:faeadd1e25a67360",
+        "android_client_info": {
+          "package_name": "projetodeliverytccservidor.com.br.projetodeliverytccservidor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98853069374-adnl9t4v983lrup9rdqus2edf6e96hfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projetodeliverytccservidor.com.br.projetodeliverytccservidor",
+            "certificate_hash": "cbf667d34643da4f8c99f20953bdf702616dcec9"
+          }
+        },
+        {
+          "client_id": "98853069374-0skloar6b27hpg4bpsi936dc8tk4ickm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZQ2RmkxZvjdvg2wA7sDWdL6PARni90U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98853069374-0skloar6b27hpg4bpsi936dc8tk4ickm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

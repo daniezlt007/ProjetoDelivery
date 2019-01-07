@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Jun 24 10:20:25 BRT 2018
+1.base=/home/daniel/AndroidStudioProjects/ProjetoDeliveryTCC/app/build/intermediates/assets/debug
+2.path=delivery.ttf
+0.baseType=DIRECTORY
+2.base=/home/daniel/AndroidStudioProjects/ProjetoDeliveryTCC/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/delivery.ttf
+0.set=ASSET
+0.base=/home/daniel/AndroidStudioProjects/ProjetoDeliveryTCC/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=databases/ComprexDB.db
